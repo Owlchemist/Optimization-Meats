@@ -22,24 +22,6 @@
 					<meatLabel>raw meat</meatLabel>
 				</value>
 			</li>
-			
-			<li Class="PatchOperationAdd">
-				<xpath>Defs</xpath>
-				<value>
-					<ThingDef>
-						<defName>Meat_Squirrel</defName>
-						<label>squirrel meat</label>
-						<description>This is a dummy item that you should never see in-game but must remain in the database, because apparently squirrel meat acts as the glue keeping rimworld together.</description>
-						<thingClass>Thing</thingClass>
-						<resourceReadoutPriority>Middle</resourceReadoutPriority>
-						<statBases>
-							<MarketValue>0</MarketValue>
-						</statBases>
-						<menuHidden>true</menuHidden>
-						<tradeability>None</tradeability>
-					</ThingDef>
-				</value>
-			</li>
 		</operations>
 	</Operation>
 	
