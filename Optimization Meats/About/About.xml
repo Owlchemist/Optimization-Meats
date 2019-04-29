@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Optimization: Meats</name>
+	<author>Owlchemist</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>
+		This mod reduces the meat variety in the game. Aside from insect meat and humanlike meats, every other meat is treated the same as far as gameplay mechanics go. So why have them? This mod simply runs a catch-all patch operation across all animals (with the insectoids and humanlike exceptions) to only drop raw meat. It should work on most animal mods as well, although there is a small possibility they may avoid being patched. Should this happen, they will just work the same as they would normally.
+		
+		The primarily advantage of this mod is reducing item bloat in the game, which will improve load time. It will also make your food storage a bit easier due to having to deal with fewer meat varieties.
+	</description>
+</ModMetaData>
